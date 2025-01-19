@@ -37,13 +37,4 @@ Contributions are welcome! If you'd like to report a bug or suggest a feature, p
 
 This project is licensed under the MIT License.
 
-# Author
-
-
-[Your Name] ([Your GitHub Username])
-
-# Acknowledgments
-
-
-- [List any resources or libraries used in the project]
 
